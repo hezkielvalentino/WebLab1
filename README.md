@@ -24,3 +24,4 @@ buat telebih dahulu sub judul untuk gambar yang akan disisipkan dengan attribut
 
 `<img src="namafilegambar" title="judulgamabaryangakandisisipkan">`
 
+![Gambar 1](Screenshoot/output5.png)
