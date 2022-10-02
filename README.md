@@ -16,6 +16,9 @@ Attribut tag format ada beberapa attribut yang dapat digunakan pada format teks
 
 ### Menyisipkan Gambar
 Untuk menyisipkan gambar pada halaman HTML simpan file gambar satu folder dengan halaman HTML atau bisa juga menyisipkan gambar dari web eksternal
-buat telebih dahulu sub judul untuk gambar yang akan disisipkan dengan attribut `<h3>Menambahkan Gambar</h3>`
+buat telebih dahulu sub judul untuk gambar yang akan disisipkan dengan attribut 
+
+`<h3>Menambahkan Gambar</h3>`
+
 `<img src="namafilegambar" title="judulgamabaryangakandisisipkan">`
 
