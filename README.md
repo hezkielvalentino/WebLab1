@@ -66,14 +66,11 @@ Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` p
 - `_blank` Berfungsi untuk membuka link di tab baru
 - `_self` Berfungsi untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada.
 secara simple-nya begini :
-
 jika di website(1) di dalamnya ada website(2) lalu di website(2) ini ada link dan kita klik, maka link akan terbuka di website(1)
 - `_top` Berfungsi untuk membuka link di frame paling atas (paling luar).
 secara simpel-nya :
-
 jika di website(1) di dalamnya ada website(2) lalu di website(2) di dalamnya ada website (3) lalu di website (3) ini ada link dan kita klik, maka link akan terbuka di website(1)
 - `_parent` Berfungsi untuk untuk membuka link di frame yg kita pilih
 secara simpel-nya:
-
 jika di website(1) di dalamnya ada website(2), website(3), website(4), dan seterusnya. terus kita taro link di website(1) dan kita perintah link tersebut terbuka di frame website(3) lalu kita klik linknya, maka link akan terbuka di frame website(3)
 
