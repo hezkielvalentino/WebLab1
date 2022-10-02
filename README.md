@@ -28,10 +28,11 @@ buat telebih dahulu sub judul untuk gambar yang akan disisipkan dengan attribut 
 
 ### Menambahkan Hyperlink
 Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` pertama kita buat terlebih dahulu file html baru yang ingin di direct di folder yang sama dengan pada halaman html pertama
-`<nav> <a href="filehtml1">Dasar HTML</a>
-<a href="halamanhtmlyangdidirect">Halaman 2</a>
-<a href="http://www.google.com">Halaman Web Eksternal Google</a>
-</nav>`
+`<nav>` 
+`<a href="filehtml1">Dasar HTML</a>`
+`<a href="halamanhtmlyangdidirect">Halaman 2</a>`
+`<a href="http://www.google.com">Halaman Web Eksternal Google</a>`
+`</nav>`
 
 #### Hasil Tampilan attribut tag Hyperlink
 ![Gambar 1](Screenshoot/output3.png)
