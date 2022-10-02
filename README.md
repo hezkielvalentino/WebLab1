@@ -4,4 +4,4 @@
 ### Membuat Paragraf
 Attribut untuk tag paragraf adalah `<p>`
 Hasil tampilan attribut tag
-![Gambar 1](Screenshoot/output1.png)
+![Gambar 1](Screenshoot/semua.png)
