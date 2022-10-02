@@ -50,3 +50,10 @@ Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` p
 3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya !
 4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak Berikan penjelasannya !
 5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut ?
+
+#### Jawab
+1. Pasti terjadi error jika ada kesalahan pada penulisan tag karena program tidak bisa memebedakan mana tag mana attribut
+2. Tag paragraph <p> dimulai dan diakhiri dengan tag penutup </p> sebagai akhir dari sebuah paragraph dan akan memasuki baris baru. Sedangkan pada tag <br/> juga memiliki fungsi yang sama, yakni untuk membuat paragraph baru atau barisan baru.
+3. `<title>` Title image adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar Anda. Text yang Anda masukkan di dalam tag judul tidak akan ditampilkan kepada pengguna ketika gambar tidak dapat ditampilkan. Sebaliknya, tag judul gambar ini ditampilkan saat Anda menyorot gambar dengan mouse.
+    `<alt>` Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak, lihat seperti gambar dibawah ini.
+
