@@ -60,7 +60,7 @@ Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` p
 
     `<alt>` Alt text atau text alternatif adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. Ini membantu mesin pencari memahami apa isi dari gambar tersebut. Text alternatif juga sangat membantu dalam kasus gambar yang tidak ditemukan pada halaman atau gambar rusak, lihat seperti gambar dibawah ini.
 
-4. Tidak perlu di isi semua karena jia tidak di isi program akan memabaca ukuran gambar pada format awal
+4. Tidak perlu di isi semua karena jia tidak di isi program akan memabaca ukuran gambar pada format ukuran file gambar yang disisipkan
 
 5. Link Attribut Target
 - `_blank` Berfungsi untuk membuka link di tab baru
