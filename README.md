@@ -40,3 +40,7 @@ Untuk menambahkan hyperlink pada halaman HTML menggunakan attribut tag `<nav>` p
 
 #### Hasil Tampilan attribut tag Hyperlink
 ![Gambar 1](Screenshoot/output3.png)
+
+#### Hasil direct ke link yang dibuat
+![Gambar 1](Screenshoot/output4.png)
+
